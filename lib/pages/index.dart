@@ -13,7 +13,7 @@ class FirstPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       drawer: Drawer(
-        backgroundColor: Color.fromARGB(255, 6, 18, 33),
+        backgroundColor: Color(0xFF061221),
         child: Column(
           children: [
             DrawerHeader(
